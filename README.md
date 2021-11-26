@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Caiojdc
+- 👋 Hi, I’m @caio_jdc
 
 - 👀 I’m interested in 
   C - Py - Java
